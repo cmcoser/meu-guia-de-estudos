@@ -67,3 +67,15 @@ Lista de livros recomendados e utilizados ao longo da minha jornada de estudos. 
 ### 📌 Próximas leituras:
 
 (*será atualizado em breve*)
+
+---
+
+## ✍️ CHECK DE CONTEÚDOS 
+(*em construção, conforme necessidade*)
+
+### 1. Fundamentos de Análise de Dados
+- O que é análise de dados
+- Tipos de dados (estruturados, semiestruturados, não estruturados)
+- Tipos de análise: descritiva, diagnóstica, preditiva e prescritiva
+- Ciclo de vida da análise de dados
+- Conhecimento básico em estatística
