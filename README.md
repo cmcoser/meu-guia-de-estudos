@@ -16,7 +16,24 @@ Aqui, mantenho minhas **anotações, links úteis, resumos e projetos práticos*
 
 ## 🧠 CURSOS EM ANDAMENTO
 
-### 📊 DataCamp – Trilha: Analista de Dados com Python
+### 📊 DATACAMP – Trilha: Analista de Dados com Python
+LINK: [Data Analyst with Python Track](https://www.datacamp.com/tracks/data-analyst-with-python)   
+
+7. Introdução à estatística em Python 
+
+### 🐍 UDEMY
+[Python para Análise de Dados (com pandas e matplotlib)](https://www.udemy.com/course/python-para-analise-de-dados/?couponCode=KEEPLEARNINGBR) | consegui de forma gratuita em uma promoção 
+
+### 🧩 ATIP LEARN - Trilha: Análise de Dados
+LINK: [aTip Learn 2024 | Análise de Dados](https://learn.atip.io/conteudos)
+
+1. Introdução ao Python para Data Analytics
+
+---
+
+## 🧠 CURSOS FINALIZADOS
+
+### 📊 DATACAMP – Trilha: Analista de Dados com Python
 LINK: [Data Analyst with Python Track](https://www.datacamp.com/tracks/data-analyst-with-python)   
 
 ### ✅ Cursos concluídos
@@ -30,9 +47,6 @@ LINK: [Data Analyst with Python Track](https://www.datacamp.com/tracks/data-anal
 
 - *Investigating Netflix Movies* 
 - *Exploring NYC Public School Test Result Scores*  
-
-### 🐍 UDEMY
-- [Python para Análise de Dados (com pandas e matplotlib)](https://www.udemy.com/course/python-para-analise-de-dados/?couponCode=KEEPLEARNINGBR) | consegui de forma gratuita em uma promoção 
 
 ---
 
