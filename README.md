@@ -16,11 +16,6 @@ Aqui, mantenho minhas **anotações, links úteis, resumos e projetos práticos*
 
 ## 🧠 CURSOS EM ANDAMENTO
 
-### 📊 DATACAMP – Trilha: Analista de Dados com Python
-LINK: [Data Analyst with Python Track](https://www.datacamp.com/tracks/data-analyst-with-python)   
-
-7. Introdução à estatística em Python 
-
 ### 🐍 UDEMY
 [Python para Análise de Dados (com pandas e matplotlib)](https://www.udemy.com/course/python-para-analise-de-dados/?couponCode=KEEPLEARNINGBR) | consegui de forma gratuita em uma promoção 
 
@@ -35,18 +30,6 @@ LINK: [aTip Learn 2024 | Análise de Dados](https://learn.atip.io/conteudos)
 
 ### 📊 DATACAMP – Trilha: Analista de Dados com Python
 LINK: [Data Analyst with Python Track](https://www.datacamp.com/tracks/data-analyst-with-python)   
-
-### ✅ Cursos concluídos
-
-1. **Introdução ao Python**  
-2. **Python Intermediário**  
-3. **Manipulação de Dados com pandas**  
-4. **Junção de Dados com pandas**  
-
-### 🎯 Projetos bônus concluídos
-
-- *Investigating Netflix Movies* 
-- *Exploring NYC Public School Test Result Scores*  
 
 ---
 
@@ -70,12 +53,12 @@ Lista de livros recomendados e utilizados ao longo da minha jornada de estudos. 
 
 ---
 
-## ✍️ CHECK DE CONTEÚDOS 
+## ✍️ LINKS ÚTEIS SEPARADOS POR TEMAS
 (*em construção, conforme necessidade*)
 
-### 1. Fundamentos de Análise de Dados
-- O que é análise de dados
-- Tipos de dados (estruturados, semiestruturados, não estruturados)
-- Tipos de análise: descritiva, diagnóstica, preditiva e prescritiva
-- Ciclo de vida da análise de dados
-- Conhecimento básico em estatística
+### 1. MATPLOTLIB
+- [Documentação oficial (em inglês)](https://matplotlib.org/)
+- [Matplotlib — Como Usar essa Ferramenta de Visualização de Dados em Python?](https://king.host/blog/tecnologia/visualizacao-de-dados-matplotlib/)
+- [YOUTUBE: Melhorando a Visualização de Dados no Matplotlib](https://www.youtube.com/watch?v=cqjnhgR2j90)
+- [YOUTUBE: Python: Visualizando dados com Matplotlib e Seaborn](https://www.youtube.com/watch?v=Sn_9eXfKyc4)
+- [YOUTUBE: Dominando a Visualização de Dados com Matplotlib e Seaborn](https://www.youtube.com/watch?v=ofIVAmmhBN0)
