@@ -1,7 +1,7 @@
-# 📘 Guia Pessoal de Estudos em Análise de Dados
+# 📘 Guia Pessoal de Estudos | Área de Dados
 
 Este repositório foi inspirado no excelente trabalho de organização de conteúdo feito por [Wendel Marques](https://github.com/wendelmarques/materiais-de-estudos-sobre-data-science-deep-machine-learning#trilhas).  
-Aqui, mantenho minhas **anotações, links úteis, resumos e projetos práticos** relacionados ao meu aprendizado em **ciência e análise de dados com Python**.
+Aqui, mantenho minhas **anotações, links úteis, resumos e projetos práticos** relacionados ao meu aprendizado na **área de Dados**.
 
 ---
 
